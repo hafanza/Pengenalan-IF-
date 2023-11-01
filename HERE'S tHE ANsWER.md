@@ -72,19 +72,27 @@ Ini beberapa User Story tambahan :
  <table>
  	<tr>
  		<td> Sebagai</td>
- 		<td> Baris 1 Kolom 2</td>
+ 		<td> Saya Ingin</td>
+		<td> Sehingga2</td>
+		<td> Level Prioritas</td>
  	</tr>
  	<tr>
- 		<td> Saya Ingin</td>
+ 		<td> isi disini</td>
  		<td> Baris 2 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
  	</tr>
 	 <tr>
- 		<td> Sehingga</td>
+ 		<td> disini</td>
  		<td> Baris 2 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
  	</tr>
 	 <tr>
- 		<td> Level Prioritas</td>
+ 		<td> disini</td>
  		<td> Baris 2 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
+		<td> Baris 1 Kolom 2</td>
  	</tr>
  </table>
 
