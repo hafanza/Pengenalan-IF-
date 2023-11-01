@@ -25,7 +25,7 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
 </head>
 
 <body>
-    <img src="branding.png" alt="iconku">
+    <img src="branding.png" alt="branding">
 </body>
 
 </html>
