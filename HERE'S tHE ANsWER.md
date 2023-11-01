@@ -15,16 +15,6 @@ Dalam pengembangannya, saya menerapkan pendekatan iteratif dan inkremental. Awal
 Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsionalitas yang kuat dari Java Swing, ActiviTask bertujuan untuk memberikan pengalaman pengelolaan tugas yang luar biasa. Jadikan setiap hari Anda lebih terorganisir dan produktif dengan ActiviTask.
 
 # 1.3. Branding
-Merk: ActiviTask
-Tagline: Inspiration comes from everywhere.
-Campaign: Membuat aplikasi yang berisi inspirasi dalam dunia fotografi.
-Target User: - Fotografer
-                    - Orang yang ingin mencari inspirasi potretan
-                    - Fotografer yang ingin mencari kenalan sesama fotografer
-                    - Traveller yang mencari tempat-tempat indah
-Tema :   Minimalist
-Warna :  Bright and Dark
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,11 +22,11 @@ Warna :  Bright and Dark
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Menampilkan Gambar</title>
+    <title>Branding</title>
 </head>
 
 <body>
-    <h1>Cara Menampikan Gambar</h1>
+    <h1>Branding</h1>
     <img src="branding.png" alt="iconku">
 </body>
 
