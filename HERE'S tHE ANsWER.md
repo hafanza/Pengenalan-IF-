@@ -71,11 +71,19 @@ Ini beberapa User Story tambahan :
  
  <table>
  	<tr>
- 		<td> Baris 1 Kolom 1</td>
+ 		<td> Sebagai</td>
  		<td> Baris 1 Kolom 2</td>
  	</tr>
  	<tr>
- 		<td> Baris 2 Kolom 1</td>
+ 		<td> Saya Ingin</td>
+ 		<td> Baris 2 Kolom 2</td>
+ 	</tr>
+	 <tr>
+ 		<td> Sehingga</td>
+ 		<td> Baris 2 Kolom 2</td>
+ 	</tr>
+	 <tr>
+ 		<td> Level Prioritas</td>
  		<td> Baris 2 Kolom 2</td>
  	</tr>
  </table>
