@@ -84,20 +84,3 @@ Pemburu Diskon atau Penawar | Menyusun daftar belanjaan dan menetapkan anggaran 
 Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memastikan proyek diserahkan sesuai tenggat waktu | ⭐⭐⭐⭐
 
 
-Sebagai | Saya ingin | Sehingga | Level Prioritas
----|---|---|---
-Pengguna | Mengupload Foto | Bisa menginspirasi fotografer lain | ⭐⭐⭐⭐⭐
-Pengguna | Mencari Foto | Bisa mendapatkan ide dan inspirasi | ⭐⭐⭐⭐⭐
-Pengguna | Mengunjungi Profil Orang | Dapat melihat info lebih lanjut dan melihat foto lain dari uploader | ⭐⭐⭐⭐
-Pengguna | Memberikan Like | Sebagai bentuk apresiasi kepada inspirator | ⭐⭐⭐
-Pengguna | Mengganti Foto Profil | Dapat Mengganti fotoo profil jika sudah bosan menggunakan foto profil yang lama | ⭐⭐⭐
-Manajer | Melihat statistik | Dapat melihat info terkait jumlah user, user dengan pengikut terbanyak, user dengan like terbanyak|⭐⭐⭐⭐⭐
-Pengguna | Melihat like | Dapat melihat info terkait jumlah user yang meng like foto | ⭐⭐
-Pengguna | melihat konten liked | dapat melihat postingan yang sudah di like | ⭐⭐⭐
-Pengguna | Mencari inspirasi lebih detai | Dapat melihat postingan dengan kata kunci tertentu | ⭐⭐⭐⭐
-Pengguna | Mengganti foto profil | Dapat mengedit profile | ⭐⭐⭐⭐
-Pengguna | Membatalkan like | Dapat menghilangkan postingan yang ada di menu liked | ⭐⭐
-Pengguna | Menambahkan lokasi | Memberitahu orang-orang dimana foto di ambil | ⭐⭐⭐⭐
-Pengguna | Mengahpus foto | Menghilangkan foto yang telah di upload dri profil | ⭐⭐⭐
-Keamanan | Melacak konten yang tidak pantas | Menghindari terjadinya hal-hal yang tidak di inginkan | ⭐⭐⭐⭐⭐
-
