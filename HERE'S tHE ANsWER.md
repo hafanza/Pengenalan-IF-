@@ -22,7 +22,6 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Branding</title>
 </head>
 
 <body>
