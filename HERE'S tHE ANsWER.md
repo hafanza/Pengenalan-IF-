@@ -46,3 +46,40 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
 
 </html>
 
+# 2. User Story 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="userstory.png" alt="userstory">
+</body>
+
+</html>
+Ini beberapa User Story tambahan :
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+ 
+ <table>
+ 	<tr>
+ 		<td> Baris 1 Kolom 1</td>
+ 		<td> Baris 1 Kolom 2</td>
+ 	</tr>
+ 	<tr>
+ 		<td> Baris 2 Kolom 1</td>
+ 		<td> Baris 2 Kolom 2</td>
+ 	</tr>
+ </table>
+
+</body>
+</html>
+
