@@ -61,41 +61,23 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
 </body>
 
 </html>
-Ini beberapa User Story tambahan :
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-</head>
-<body>
- 
- <table>
- 	<tr>
- 		<td> Sebagai</td>
- 		<td> Saya Ingin</td>
-		<td> Sehingga2</td>
-		<td> Level Prioritas</td>
- 	</tr>
- 	<tr>
- 		<td> isi disini</td>
- 		<td> Baris 2 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
- 	</tr>
-	 <tr>
- 		<td> disini</td>
- 		<td> Baris 2 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
- 	</tr>
-	 <tr>
- 		<td> disini</td>
- 		<td> Baris 2 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
-		<td> Baris 1 Kolom 2</td>
- 	</tr>
- </table>
-
-</body>
-</html>
-
+Ini beberapa User Story tambahan dari perspektif lain :
+Sebagai | Saya ingin | Sehingga | Level Prioritas
+---|---|---|---
+Pemilik Bisnis | Memantau tugas terkait proyek-proyek |	Memastikan semuanya berjalan lancar | ⭐⭐⭐⭐
+Pemilik Bisnis | Melihat tugas dengan tenggat waktu mendekati |	Mengantisipasi risiko keterlambatan | ⭐⭐⭐
+Pelajar | Mengelompokkan tugas berdasarkan mata pelajaran atau deadline |	Memudahkan perencanaan studi | ⭐⭐⭐⭐
+Pelajar |Menetapkan prioritas pada tugas-tugas | Fokus pada yang paling penting | ⭐⭐⭐
+Orang Tua | Memantau dan membimbing anak-anak dalam menyelesaikan tugas-tugas sekolah | Memastikan anak-anak dapat menyelesaikan tugas dengan baik | ⭐⭐⭐⭐
+Orang Tua | Menetapkan pengingat untuk tugas-tugas atau kegiatan ekstrakurikuler anak-anak | Memastikan anak-anak tidak melewatkan kegiatan penting | ⭐⭐⭐
+Olahragawan | Menyusun program latihan berdasarkan fokus dan tujuan latihan |	Mencapai performa olahraga yang lebih baik | ⭐⭐⭐⭐
+Olahragawan | Memantau jadwal latihan dan kompetisi | Memastikan kesiapan fisik dan mental optimal | ⭐⭐⭐⭐
+Traveler | Merencanakan rencana perjalanan | Mengatur jadwal dan aktivitas selama perjalanan | ⭐⭐⭐⭐
+Guru atau Pendidik | Membuat daftar tugas untuk siswa | Memudahkan siswa dalam menyelesaikan tugas-tugas | ⭐⭐⭐⭐
+Manajer Proyek | Memantau proyek dan tugas tim | Memastikan proyek selesai sesuai jadwal | ⭐⭐⭐⭐
+Pencari Kerja | Menyusun daftar tugas pencarian kerja | Meningkatkan efisiensi dalam mencari pekerjaan | ⭐⭐⭐
+Blogger atau Penulis | Mengelola jadwal posting dan ide konten | Konsisten dalam mempublikasikan konten | ⭐⭐⭐
+Pemilik Kafe atau Restoran | Mengelola tugas sehari-hari dalam operasi bisnis | Memastikan operasi berjalan lancar | ⭐⭐⭐⭐
+Anggota Organisasi Sosial | Mengelola proyek dan tugas sukarelawan | Menyediakan bantuan yang lebih efektif kepada komunitas | ⭐⭐⭐⭐
+Pemburu Diskon atau Penawar | Menyusun daftar belanjaan dan menetapkan anggaran | Maksimalkan penghematan saat berbelanja | ⭐⭐⭐
+Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memastikan proyek diserahkan sesuai tenggat waktu | ⭐⭐⭐⭐
