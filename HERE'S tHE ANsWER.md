@@ -85,13 +85,14 @@ Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memas
 
 ## 3. Struktur Data
 
+```mermaid
 erDiagram
     USER ||--o{ TASK : CREATES
     USER {
       string username
       string password
     }
-
+    
     USER ||--o{ TASK : MANAGES
     TASK {
       string taskID (Unique Identifier)
@@ -103,12 +104,4 @@ erDiagram
       string category
     }
 
-Task Entity Attributes
-
-- Task ID (Unique Identifier)
-- Title (String)
-- Description (String)
-- Due Date (Date/Time)
-- Priority Level (Integer or Enum: Low, Medium, High)
-- Status (Boolean: Completed or Not Completed)
-- Category (String)
+```
