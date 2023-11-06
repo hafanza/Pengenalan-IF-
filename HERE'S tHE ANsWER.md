@@ -108,7 +108,7 @@ erDiagram
 ## 4. Arsitektur Sistem
 Desain UI/UX - MIT App Inventor --> Penerjemahan ke Java Swing --> Aplikasi ActiviTask
 
-## Penjelasan:
+Penjelasan:
 
 - Desain UI/UX - MIT App Inventor: Proses awal pengembangan melibatkan pembuatan desain antarmuka pengguna yang ramah dan intuitif menggunakan MIT App Inventor. Ini memastikan kenyamanan dan kemudahan penggunaan aplikasi.
 
