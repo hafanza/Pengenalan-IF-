@@ -90,7 +90,6 @@ erDiagram
     USER ||--o{ TASK : CREATES
     USER {
       string username
-      string password
     }
     
     USER ||--o{ TASK : MANAGES
