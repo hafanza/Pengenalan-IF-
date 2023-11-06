@@ -103,5 +103,3 @@ erDiagram
       boolean status (Completed or Not Completed)
       string category
     }
-
-```
