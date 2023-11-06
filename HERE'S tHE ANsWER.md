@@ -103,6 +103,8 @@ erDiagram
       string kategori
     }
 
+```
+
 ## 4. Arsitektur Sistem
 Desain UI/UX - MIT App Inventor --> Penerjemahan ke Java Swing --> Aplikasi ActiviTask
 
