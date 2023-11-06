@@ -83,4 +83,28 @@ Anggota Organisasi Sosial | Mengelola proyek dan tugas sukarelawan | Menyediakan
 Pemburu Diskon atau Penawar | Menyusun daftar belanjaan dan menetapkan anggaran | Maksimalkan penghematan saat berbelanja | ⭐⭐⭐
 Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memastikan proyek diserahkan sesuai tenggat waktu | ⭐⭐⭐⭐
 
+## 3. Struktur Data
+ActiviTask/
+|-- .gitignore
+|-- README.md
+|-- docs/
+|   |-- user-stories.md
+|   |-- entity-diagram.png
+|-- src/
+|   |-- models/
+|   |   |-- User.js
+|   |   |-- OtherUser.js
+|   |   |-- Post.js
+|   |   |-- Slide.js
+|   |   |-- Security.js
+|-- tests/
+|   |-- unit/
+|   |   |-- User.test.js
+|   |   |-- OtherUser.test.js
+|   |   |-- Post.test.js
+|   |   |-- Slide.test.js
+|   |   |-- Security.test.js
+|-- design/
+|   |-- entity-diagram.drawio
+|-- LICENSE
 
