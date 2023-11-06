@@ -87,34 +87,19 @@ Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memas
 
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ POSTINGAN : MEMPOSTING
+    PENGGUNA ||--o{ TUGAS : MEMBUAT
     PENGGUNA {
       string username
-      string password
     }
 
-    PENGGUNA_LAIN ||--|{ POSTINGAN : MENYUKAI
-    PENGGUNA_LAIN {
-      string username
-
+    PENGGUNA ||--o{ TUGAS : MENGELOLA
+    TUGAS {
+      string idTugas (Pengenal Unik)
+      string judul
+      string deskripsi
+      datetime tanggalBatas
+      int tingkatPrioritas
+      boolean status (Selesai atau Belum Selesai)
+      string kategori
     }
-
-    POSTINGAN {
-      image foto
-      string username_pengguna
-      int jumlahLike
-    }
-    PENGGUNA ||--|{ PENGGUNA_LAIN : MENGUNJUNGI_PROFIL
-    POSTINGAN ||--|{ SLIDE : MEMPOSTING
-    SLIDE{
-        image foto
-    }
-
-    KEAMANAN{
-        string username_stafkeamanan
-        string password
-    }
-
-    KEAMANAN ||--|{POSTINGAN : MELACAK_KONTEN_YANG_TIDAK_PANTAS
-     
-```
+        
