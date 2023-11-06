@@ -87,19 +87,19 @@ Pekerja Seni atau Desainer | Mengatur jadwal proyek dan presentasi klien | Memas
 
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ TUGAS : MEMBUAT
-    PENGGUNA {
+    USER ||--o{ TASK : CREATES
+    USER {
       string username
     }
 
-    PENGGUNA ||--o{ TUGAS : MENGELOLA
-    TUGAS {
-      string idTugas (Pengenal Unik)
-      string judul
-      string deskripsi
-      datetime tanggalBatas
-      int tingkatPrioritas
-      boolean status (Selesai atau Belum Selesai)
-      string kategori
+    USER ||--o{ TASK : MANAGES
+    TASK {
+      string taskID
+      string title
+      string description
+      datetime dueDate
+      int priorityLevel
+      boolean status
+      string category
     }
-        
+
