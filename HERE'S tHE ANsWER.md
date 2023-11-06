@@ -103,3 +103,13 @@ erDiagram
       string kategori
     }
 
+## 4. Arsitektur Sistem
+Desain UI/UX - MIT App Inventor --> Penerjemahan ke Java Swing --> Aplikasi ActiviTask
+
+## Penjelasan:
+
+- Desain UI/UX - MIT App Inventor: Proses awal pengembangan melibatkan pembuatan desain antarmuka pengguna yang ramah dan intuitif menggunakan MIT App Inventor. Ini memastikan kenyamanan dan kemudahan penggunaan aplikasi.
+
+- Penerjemahan ke Java Swing: Setelah desain UI/UX selesai, aplikasi akan diterjemahkan ke bahasa pemrograman Java menggunakan platform Java Swing. Hal ini memberikan fungsionalitas yang lebih kuat dan komprehensif kepada ActiviTask.
+
+- Aplikasi ActiviTask: Merupakan hasil akhir dari pengembangan, yang memungkinkan pengguna untuk dengan mudah membuat dan mengelola daftar tugas. Pengguna dapat menambahkan tugas baru, mengedit, menghapus, dan menandai sebagai selesai.
