@@ -138,7 +138,6 @@ Framework:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
         body {
-            display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
