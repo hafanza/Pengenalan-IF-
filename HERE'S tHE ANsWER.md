@@ -59,6 +59,20 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
   - Sederhana
   - Suasana hangat
   - Inspriasi desain :
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="inspo.png" alt="inspo">
+</body>
+
+</html>
 # 2. User Story 
 <!DOCTYPE html>
 <html lang="en">
@@ -152,7 +166,7 @@ Framework:
 </head>
 
 <body>
-    <img src="Desain.png" alt="Desain">
+    <img src="desain.png" alt="desain">
 </body>
 
 </html>
