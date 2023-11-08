@@ -46,6 +46,19 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
 
 </html>
 
+* Merk : ActiviTask
+* Tagline : Where productivity meets simplicity
+* Campaign : Streamline to-do app for efficient task management
+* Target User :
+  - Mereka yang memiliki tugas dan jadwal yang perlu diorganisir.
+  - Membutuhkan alat untuk mengelola dan memprioritaskan tugas dengan efisien.
+  - Menghindari fitur berlebihan dan memilih fungsionalitas yang esensial.
+  - Membutuhkan alat untuk mengelola waktu dengan bijak.
+* User experience theme :
+  - Mudah
+  - Sederhana
+  - Suasana hangat
+  - Inspriasi desain :
 # 2. User Story 
 <!DOCTYPE html>
 <html lang="en">
