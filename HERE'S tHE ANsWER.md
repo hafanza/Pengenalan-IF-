@@ -58,7 +58,7 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
   - Mudah
   - Sederhana
   - Suasana hangat
-  - Inspriasi desain :
+  - Inspirasi desain :
 <!DOCTYPE html>
 <html lang="en">
 
