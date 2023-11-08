@@ -73,6 +73,7 @@ Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsional
 </body>
 
 </html>
+
 # 2. User Story 
 <!DOCTYPE html>
 <html lang="en">
