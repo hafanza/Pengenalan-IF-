@@ -115,3 +115,17 @@ Penjelasan:
 - Penerjemahan ke Java Swing: Setelah desain UI/UX selesai, aplikasi akan diterjemahkan ke bahasa pemrograman Java menggunakan platform Java Swing. Hal ini memberikan fungsionalitas yang lebih kuat dan komprehensif kepada ActiviTask.
 
 - Aplikasi ActiviTask: Merupakan hasil akhir dari pengembangan, yang memungkinkan pengguna untuk dengan mudah membuat dan mengelola daftar tugas. Pengguna dapat menambahkan tugas baru, mengedit, menghapus, dan menandai sebagai selesai.
+
+## 5. Teknologi, Library, dan Framework
+Teknologi:
+    - MIT App Inventor
+    - Java
+    - PostgreSQL
+
+Library:
+    - Java Swing
+
+Framework:
+    - Tidak diperlukan dalam konteks MIT App Inventor dan Java Swing
+
+## 6. Desain User Experience dan User Interface
