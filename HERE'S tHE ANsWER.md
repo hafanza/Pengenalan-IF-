@@ -138,10 +138,7 @@ Framework:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
         body {
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
+            text-align: center;
         }
     </style>
 </head>
@@ -151,4 +148,5 @@ Framework:
 </body>
 
 </html>
+
 
