@@ -26,7 +26,7 @@ Melalui pengembangan berkelanjutan dan proses iteratif, saya berharap ActiviTask
 # 1.2. Deskripsi Teknologi Informasi
 ActiviTask adalah solusi canggih untuk mengelola tugas-tugas Anda dengan efisien. Dengan antarmuka pengguna yang ramah dan intuitif, aplikasi ini memungkinkan Anda untuk dengan mudah membuat dan mengelola daftar tugas Anda. Dari menambahkan tugas baru hingga menandai yang sudah selesai, ActiviTask memastikan Anda tetap terorganisir dan produktif dalam setiap aktivitas harian Anda.
 
-Dalam pengembangannya, saya menerapkan pendekatan iteratif dan inkremental. Awalnya, desain UI/UX dibuat dengan menggunakan MIT App Inventor untuk memastikan kenyamanan dan kemudahan penggunaan. Selanjutnya, aplikasi ini akan diterjemahkan ke dalam bahasa pemrograman Java dengan menggunakan platform Java Swing, memberikan fungsionalitas yang lebih kuat dan komprehensif.
+Dalam pengembangannya, saya menerapkan pendekatan iteratif. Awalnya, desain UI/UX dibuat dengan menggunakan MIT App Inventor untuk memastikan kenyamanan dan kemudahan penggunaan. Selanjutnya, aplikasi ini akan diterjemahkan ke dalam bahasa pemrograman Java dengan menggunakan platform Java Swing, memberikan fungsionalitas yang lebih kuat dan komprehensif.
 
 Dengan kombinasi desain yang ramah pengguna dari MIT App Inventor dan fungsionalitas yang kuat dari Java Swing, ActiviTask bertujuan untuk memberikan pengalaman pengelolaan tugas yang luar biasa. Jadikan setiap hari Anda lebih terorganisir dan produktif dengan ActiviTask.
 
